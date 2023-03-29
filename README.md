@@ -1,5 +1,7 @@
 REACTjs User Management App
-This is a REACTjs app for managing users, built for Reuter. The app allows administrators to add, edit, delete and search user accounts, and view a list of all users.
+
+
+This is a  app for managing users created using react.js,Reuter. The app allows administrators to add, edit, delete and search user accounts, and view a list of all users.
 
 Getting Started
 To get started with the app, follow these steps:
