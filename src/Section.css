@@ -1,0 +1,22 @@
+.section {
+    display: flex;
+    justify-content:space-between;
+    background-color:  rgba(196, 196, 216, 0.95);
+    height: 10vh;
+    padding: 30px;
+}
+.search{
+    
+    margin-left: 5%;
+    
+}
+.button{
+    max-height: 8vh;
+    max-width: 15vw;
+    margin-right: 5%;
+}
+.searchInput{
+    
+    max-height: 15vh;
+    max-width: 100vh
+}
