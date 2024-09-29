@@ -1,7 +1,6 @@
 import React from 'react'
 import Product from './Product'
 import Section from './Section'
-import { data } from './data'
 import { useContext } from 'react';
 import { UserContext } from './context/context'
 import './Listing.css';

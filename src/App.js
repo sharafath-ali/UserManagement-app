@@ -1,6 +1,5 @@
 import './App.css';
 import Nav from './Nav';
-import Section from './Section';
 import Listpro from './Listpro';
 import Add from './Add';
 import SProvider from './context/searchcontext'
